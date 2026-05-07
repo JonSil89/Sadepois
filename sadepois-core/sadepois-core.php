@@ -6,14 +6,19 @@
  * Version: 1.0.0
  * Author: JonSil89
  * License: GPL-2.0+
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: sadepois-core
  * Domain Path: /languages
+ *
+ * Sadepois Core is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 2 of the License, or
+ * (at your option) any later version.
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
-
 /**
  * Main Sadepois Core Plugin Class
  */
